@@ -1,0 +1,8 @@
+{
+  "name": "Neural Sense Legal Intelligence",
+  "description": "Premium AI-powered legal analysis and tactical intelligence dashboard for high-stakes litigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
